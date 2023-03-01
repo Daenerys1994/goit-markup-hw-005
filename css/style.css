@@ -19,6 +19,7 @@ html {
     --btn-text-color: #4D5AE5;
     --btn-text-color-activ: #fff;
     --footer-text-color: #e7e9fc;  
+    --hover-transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 h1,
@@ -550,6 +551,7 @@ button
 .list{
 
     list-style: none;
+   
 }
 img{
     display: block;
